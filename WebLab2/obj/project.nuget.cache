@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DuTPfiVyOBqxUXxwEDpwQacBXrWsye5E0SN6A7UxQgh2VRj/+uDELYnurJDZ4V+X8m3AnPPwIlYIk8mv3WYfIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Елизавета\\OneDrive\\Рабочий стол\\2\\WebLab2\\WebLab2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Елизавета\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
